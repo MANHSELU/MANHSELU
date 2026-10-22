@@ -44,7 +44,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="170"><b>Languages</b></td>
+    <td align="center"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -54,7 +54,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend & Database</b></td>
+    <td align="center"><b>Backend&nbsp;&amp;&nbsp;Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools & Management</b></td>
+    <td align="center"><b>Tools&nbsp;&amp;&nbsp;Management</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -100,20 +100,13 @@
 
 <h3 align="center">Words I Work By</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="345">
-      <img src="https://img.shields.io/badge/Business_Analysis-0E75B6?style=for-the-badge" />
-      <p><i>"If you can't describe what you are doing as a process, you don't know what you're doing."</i></p>
-      <p><b>W. Edwards Deming</b></p>
-    </td>
-    <td align="center" valign="top" width="345">
-      <img src="https://img.shields.io/badge/Project_Management-D29922?style=for-the-badge" />
-      <p><i>"Plans are nothing; planning is everything."</i></p>
-      <p><b>Dwight D. Eisenhower</b></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20can%27t%20describe%20what%20you%20are%20doing%20as%20a%20process%2C%20you%20don%27t%20know%20what%20you%27re%20doing.&author=W.%20Edwards%20Deming" alt="Business Analysis Quote" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Plans%20are%20nothing%3B%20planning%20is%20everything.&author=Dwight%20D.%20Eisenhower" alt="Project Management Quote" />
+</p>
 
 ---
 
