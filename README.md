@@ -81,26 +81,39 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Learning-3B82F6?style=for-the-badge" /><br/><br/>
-      Business process modeling<br/>and requirement analysis
+    <td align="center" valign="top" width="230">
+      <img src="https://img.shields.io/badge/Learning-3B82F6?style=for-the-badge" />
+      <p>Business process modeling<br/>and requirement analysis</p>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Building-2EA043?style=for-the-badge" /><br/><br/>
-      Web applications with<br/>TypeScript and Node.js
+    <td align="center" valign="top" width="230">
+      <img src="https://img.shields.io/badge/Building-2EA043?style=for-the-badge" />
+      <p>Web applications with<br/>Node.js and databases</p>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Exploring-D29922?style=for-the-badge" /><br/><br/>
-      Agile, Scrum and<br/>modern project management
+    <td align="center" valign="top" width="230">
+      <img src="https://img.shields.io/badge/Exploring-D29922?style=for-the-badge" />
+      <p>Agile, Scrum and modern<br/>project management</p>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+<h3 align="center">Words I Work By</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="345">
+      <img src="https://img.shields.io/badge/Business_Analysis-0E75B6?style=for-the-badge" />
+      <p><i>"If you can't describe what you are doing as a process, you don't know what you're doing."</i></p>
+      <p><b>W. Edwards Deming</b></p>
+    </td>
+    <td align="center" valign="top" width="345">
+      <img src="https://img.shields.io/badge/Project_Management-D29922?style=for-the-badge" />
+      <p><i>"Plans are nothing; planning is everything."</i></p>
+      <p><b>Dwight D. Eisenhower</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
