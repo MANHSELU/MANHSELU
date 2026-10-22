@@ -43,10 +43,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,prisma,sequelize&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
+  <img src="assets/techstack.svg" alt="Tech Stack" />
 </p>
 
 ---
