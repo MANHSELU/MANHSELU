@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/typing.svg" alt="Hi, I'm Duc Manh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Duc+Manh;Business+Analysis;Software+Development;Project+Management;Technology+Research" alt="Hi, I'm Duc Manh" />
 
 <p>
   <a href="https://www.facebook.com/ucmanh.385561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
@@ -43,7 +43,8 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="assets/techstack.svg" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,nodejs,mysql,postgres,prisma,sequelize,git,github,postman,docker&perline=5&theme=dark" alt="Tech Stack" /><br/><br/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
