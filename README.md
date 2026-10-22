@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Duc+Manh;Business+Analysis;Software+Development;Project+Management;Technology+Research" alt="Typing SVG" />
+<img src="assets/typing.svg" alt="Hi, I'm Duc Manh" />
 
 <p>
   <a href="https://www.facebook.com/ucmanh.385561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
@@ -13,27 +13,27 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="center">What I'm Passionate About</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/01-Business_Analysis-0E75B6?style=for-the-badge" />
-      <p>Gathering requirements, analyzing business processes and turning them into <b>clear specifications</b> that a team can build from.</p>
+      <p>I love understanding <b>how businesses really work</b>: exploring their processes, asking the right questions and turning ideas into clear requirements.</p>
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/02-Software_Development-2EA043?style=for-the-badge" />
-      <p>Building web applications with <b>TypeScript, Node.js</b> and relational databases, with clean structure that reflects the business logic correctly.</p>
+      <p>I enjoy <b>bringing ideas to life with code</b>. Turning requirements into working web apps with TypeScript and Node.js is what keeps me curious every day.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/03-Project_Management-D29922?style=for-the-badge" />
-      <p>Planning, organizing and <b>delivering software projects</b>: breaking down work, tracking progress and keeping the team aligned.</p>
+      <p>I'm fascinated by <b>how great teams deliver</b>: planning, organizing and keeping everyone moving toward the same goal.</p>
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/04-Technology_Research-8957E5?style=for-the-badge" />
-      <p>Exploring <b>emerging technologies</b> and evaluating how they can solve real business problems.</p>
+      <p>I'm always <b>chasing new technologies</b> and love discovering how they can solve real-world problems.</p>
     </td>
   </tr>
 </table>
@@ -65,5 +65,5 @@
 ---
 
 <div align="center">
-  <i>Thanks for visiting! Feel free to reach out anytime.</i>
+  <i>Driven by curiosity, powered by passion. Thanks for visiting!</i>
 </div>
