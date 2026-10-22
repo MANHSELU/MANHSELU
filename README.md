@@ -1,8 +1,13 @@
 <div align="center">
+
+<h1>Hi, I'm Duc Manh</h1>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=0E75B6&center=true&vCenter=true&width=500&lines=Business+Analysis;Software+Development;Project+Management;Technology+Research" alt="Typing SVG" />
 
 <p>
   <a href="https://www.facebook.com/ucmanh.385561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="mailto:manhselu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -12,28 +17,9 @@
 
 <h3 align="center">About Me</h3>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-Business_Analysis-0E75B6?style=for-the-badge" />
-      <p>Gathering requirements, analyzing business processes and turning them into <b>clear specifications</b> that a team can build from.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-Software_Development-2EA043?style=for-the-badge" />
-      <p>Building web applications with <b>TypeScript, Node.js</b> and relational databases, with clean structure that reflects the business logic correctly.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03-Project_Management-D29922?style=for-the-badge" />
-      <p>Planning, organizing and <b>delivering software projects</b>: breaking down work, tracking progress and keeping the team aligned.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04-Technology_Research-8957E5?style=for-the-badge" />
-      <p>Exploring <b>emerging technologies</b> and evaluating how they can solve real business problems.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=170&lines=Business+Analysis+-+Turning+requirements+into+clear+specifications;Software+Development+-+Building+web+apps+with+TypeScript+and+Node.js;Project+Management+-+Planning+and+delivering+software+projects;Technology+Research+-+Exploring+emerging+technologies" alt="About Me" />
+</p>
 
 ---
 
