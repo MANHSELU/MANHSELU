@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Duc+Manh;I%27m+passionate+about...;Business+Analysis;Software+Development;Project+Management;Technology+Research" alt="Hi, I'm Duc Manh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Duc+Manh;I%27m+passionate+about...;Business+Analysis;Software+Development;Project+Management" alt="Hi, I'm Duc Manh" />
 
 <p>
   <a href="https://www.facebook.com/ucmanh.385561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
